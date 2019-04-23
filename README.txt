@@ -1,4 +1,4 @@
-Data for Figs 2-4 of the manuscript are accessible in the form of .mat
+Data for Figs 2-4 of the manuscript entitled "Epidemic prevalence information on social networks can mediate emergent collective outcomes in voluntary vaccine schemes" are accessible in the form of .mat
 files (which can be opened in MATLAB) available in the following folders.
 
 [Note: Data for the empirical social newtorks used in Figures 2(a-b) and 3(d)
